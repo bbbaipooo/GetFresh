@@ -1,0 +1,94 @@
+[
+    {
+      "name": "Mixed Fruit Chips",
+      "price": "45",
+      "detail": "Green Day - natural healthy snack, Greenday Mixed Fruit Chips are made with real veggies! ",
+      "image": "./product1.jpg"
+    },
+    {
+      "name": "Cold-Pressed juice sets (5 Bottle)",
+      "price": "475",
+      "detail": "Doikham -  The taste and health advantages are identical to those of eating fresh fruits.",
+      "image": "./product2.jpg"
+    },
+    {
+      "name": "Cold-Pressed juice - Saranrom",
+      "price": "95",
+      "detail": "Doikham -  The taste and health advantages are identical to those of eating fresh fruits.",
+      "image": "./product3.jpg"
+    },
+    {
+      "name": "Cold-Pressed juice sets (2 Bottle)",
+      "price": "190",
+      "detail": "Doikham -  The taste and health advantages are identical to those of eating fresh fruits.",
+      "image": "./product4.jpg"
+    },
+    {
+      "name": "Chocolate w/Yogurt",
+      "price": "150",
+      "detail": "Diamond Grain - 100% heart selected. Trusted. No wheat flour, brown sugar, chemical. a trusted product",
+      "image": "./product5.png"
+    },
+    {
+      "name": "Mixed Berry w/Yogurt",
+      "price": "140",
+      "detail": "Diamond Grain - 100% heart selected. Trusted. No wheat flour, brown sugar, chemical. a trusted product",
+      "image": "./product6.jpg"
+    },
+    {
+      "name": "Caesar Salad",
+      "price": "220",
+      "detail": "Ohkaju - Served with fresh organic salad vegetables straight from our garden every morning.",
+      "image": "./product7.webp"
+    },
+    {
+      "name": "Mixed Veggie Salad",
+      "price": "270",
+      "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+      "image": "./product8.webp"
+    },
+    {
+      "name": "Fish & Chips w/Salad",
+      "price": "420",
+      "detail": "Ohkaju - Served with fresh organic salad vegetables straight from our garden every morning.",
+      "image": "./product9.webp"
+    },
+    {
+      "name": "Fruits Salad",
+      "price": "380",
+      "detail": "Ohkaju - Served with fresh organic salad vegetables straight from our garden every morning.",
+      "image": "./product10.webp"
+    },
+    {
+      "name": "Pork Steak w/Salad",
+      "price": "470",
+      "detail": "Ohkaju - Served with fresh organic salad vegetables straight from our garden every morning.",
+      "image": "./product11.webp"
+    },
+    {
+      "name": "Mixed Salad",
+      "price": "290",
+      "detail": "Ohkaju - Served with fresh organic salad vegetables straight from our garden every morning.",
+      "image": "./product12.webp"
+    },
+    {
+      "name": "Japanese Salad",
+      "price": "340",
+      "detail": "Ohkaju - Served with fresh organic salad vegetables straight from our garden every morning.",
+      "image": "./product13.webp"
+    },
+    {
+      "name": "Salmon w/Salad",
+      "price": "520",
+      "detail": "Ohkaju - Served with fresh organic salad vegetables straight from our garden every morning.",
+      "image": "./product14.webp"
+    },
+    {
+      "name": "Salad w/Fruit Chips",
+      "price": "320",
+      "detail": "Ohkaju - Served with fresh organic salad vegetables straight from our garden every morning.",
+      "image": "./product15.webp"
+    }
+    
+  ]
+  

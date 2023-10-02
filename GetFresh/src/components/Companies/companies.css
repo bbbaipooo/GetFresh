@@ -1,0 +1,16 @@
+.c-container{
+    justify-content: space-between;
+    gap:1rem;
+    background-color: var(--cream);
+}
+.c-container>img{
+    width:11rem;
+    
+}
+@media (max-width:640px){
+    .c-wrapper>.c-container{
+        display:flex;
+        flex-direction: column;
+        gap: 3rem;
+    }
+}
